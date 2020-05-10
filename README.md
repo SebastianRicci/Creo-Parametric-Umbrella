@@ -9,7 +9,7 @@ Functional umbrella designed with Creo Parametric
 
 1. Download Umbrella File
 2. Run Creo parametric
-3. Make sure to run "Umbrella" sub folder
+3. Make sure to run "RUN-UMBRELLA" sub folder
 
 ## Author
 
