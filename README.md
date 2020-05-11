@@ -7,7 +7,7 @@ Functional umbrella designed with Creo Parametric.This project began with drawin
 * Drawings = Individual and collective design drawings of each piece and different views and sections of the umbrella.
 * Run-Umbrella = It's necessary to open this subfolder in order to run the assembly correctly.
 * Videos = Videos of the 3D modeled umbrella opening and closing, showing its movement restrictions.
-* Project
+* Umbrella-Project = PDF summarizing entire project.
 
 ## Minimum Requirements
 * [CREO Parametric](https://www.ptc.com/en/products/cad/creo/parametric) - Version 2.0 or Later
@@ -17,7 +17,9 @@ Functional umbrella designed with Creo Parametric.This project began with drawin
 1. Download Umbrella Folder.
 2. Run Creo Parametric.
 3. Make sure to open "RUN-UMBRELLA" first before opening assembly folder.
+4. Open assembly and interact with the 3D model.
 
 ## Author
 
 * **Sebastian Ricci** - *TECNUN* - [SebastianRicci](https://github.com/SebastianRicci)
+* **Alvaro Ruiz** - *TECNUN* 
